@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    color: red;
+}
+h1,h2,p{
+    background-color: azure;
+    text-align: center;
+    font-size: 56px;
+    padding: 5%;
+    margin: 10px;
+    border-style: dashed;
+    border-color: aqua;
+    border-width: 5px;
+}
+
+h2{
+    color: black;
+}
